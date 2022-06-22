@@ -1,0 +1,64 @@
+.BrushScriptMT
+{
+  font-family:Brush Script MT;
+  font-size:40px;
+
+}
+.font1
+{
+  font-family:Mistral;
+  font-size: 65px;
+}
+.impact
+{font-family: Mistral;
+  font-size: 90px;
+  color:#F24A72;
+}
+.cursive
+{
+  font-family:Mistral;
+  font-size: 40px;
+
+}
+div.text1
+{
+  text-align:center;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-decoration-color: #FAD4D4;
+}
+div.text2
+{
+  text-align: center;
+}
+div.text3
+{
+  text-align: center;
+}
+div.text4
+{
+  text-align: center;
+}
+div.text5
+{
+  text-align:right;
+}
+.cursive
+{
+  font-family: Mistral;
+  font-size: 45px;
+}
+.fantasy
+{
+  font-family: Viner Hand ITC;
+  font-size: 70px;
+  
+}
+div.text6
+{
+  text-align: right;
+}
+div.text7
+{
+  text-align: inherit;
+}
